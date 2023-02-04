@@ -1,2 +1,2 @@
 # 987-MorseCodeRing
-a project of encoding your secret vow into Morse code and 
+Concept: a project of encoding your secret vow into Morse code and turn them into wedding ring.
