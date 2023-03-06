@@ -4,4 +4,7 @@
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Concept: a project of encoding your secret vow into Morse code and turn them into wedding ring.
+
+Create a bespoke set of wedding rings that captures the essence of a couple’s love story through a unique and personalized design. 
+
+Using Grasshopper3D, develop a parametric system that encodes the couple’s secret message in Morse code, transforming it into a striking and intricate pattern that is 3D printed in wax mode.
